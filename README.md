@@ -4,7 +4,7 @@ This is a micropython driver for the [Adafruit BiColor 8x8 LED Matrix I2C backpa
 
 ## Installation
 
-Copy [`bicolor8x8.py`](bicolor.py) to your project.
+Copy [`bicolor8x8.py`](bicolor8x8.py) to your project.
 
 ![alt text](example.gif)
 
