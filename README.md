@@ -1,6 +1,6 @@
 # MicroPython BiColor 8x8 Matrix Driver
 
-This is a micropython driver for the [Adafruit BiColor 8x8 LED Matrix I2C backpack](https://www.adafruit.com/product/902). T
+This is a micropython driver for the [Adafruit BiColor 8x8 LED Matrix I2C backpack](https://www.adafruit.com/product/902).
 
 ![In action](example.gif)
 
